@@ -687,11 +687,11 @@ body.extra .arlo_tm_rightpart.opened{padding-left: 400px;}
 /*---------------------------------------------------*/
 /*	05) ARLO HERO 
 /*---------------------------------------------------*/
-.text-all {
+/* .text-all {
 	background-color: rgba(156, 96, 96, 0.233);
 	padding: 130px 0px 130px 0px;
 	margin: 0px 130px 0px 130px;
-}
+} */
 
 .arlo_tm_hero_header{
 	width: 100%;
@@ -717,7 +717,7 @@ body.extra .arlo_tm_rightpart.opened{padding-left: 400px;}
 	bottom: 0px;
 	left: 0px;
 	right: 0px;
-	background-color: rgb(255, 255, 255, 0.2);
+	background-color: rgb(156, 96, 96, 0.233);
 	z-index: 1;
 }
 .arlo_tm_hero_header .hero_content{
