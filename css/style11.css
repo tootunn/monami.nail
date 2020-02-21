@@ -6646,7 +6646,8 @@ body.freelancer h3{font-family: "Poppins";}
 }
 @media (max-width: 1400px) {
 	.arlo_tm_about{margin-bottom: 80px;}
-	.arlo_tm_about .leftbox{display: none;}
+	.arlo_tm_about
+	/* .leftbox{display: none;} */
 	.arlo_tm_about .rightbox{padding-left: 0px;width: 100%;}
 	.arlo_tm_services .service_inner ul li{width: 50%;}
 	.arlo_tm_timeline .timeline_inner ul li{width: 50%;}
